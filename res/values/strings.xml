@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">스마트 퀴즈</string>
+
+    <!-- 네비게이션 -->
+    <string name="bottom_navigation_home">홈</string>
+    <string name="bottom_navigation_wrong_answers">오답 노트</string>
+    <string name="bottom_navigation_ranking">랭킹</string>
+
+    <!-- 메인 화면 -->
+    <string name="Select">퀴즈 주제를 선택하세요</string>
+
+    <!-- 퀴즈 주제 -->
+    <string name="quizTopic1">Android 기초</string>
+    <string name="quizTopic2">Jetpack Compose</string>
+    <string name="quizTopic3">Kotlin 문법</string>
+
+    <!-- 기타 -->
+    <string name="quiz_screen_title">퀴즈</string>
+    <string name="result_screen_title">결과</string>
+    <string name="wrong_answers_title">오답 노트</string>
+    <string name="ranking_title">랭킹</string>
+</resources>
